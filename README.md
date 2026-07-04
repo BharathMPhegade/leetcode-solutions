@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0704-binary-search) |
 ## Binary Search
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0189-rotate-array) |
 ## String
@@ -33,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0189-rotate-array) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
