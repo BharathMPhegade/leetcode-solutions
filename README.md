@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0704-binary-search](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -39,4 +40,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0075-sort-colors) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
