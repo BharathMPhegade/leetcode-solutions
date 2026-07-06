@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0200-number-of-islands) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
