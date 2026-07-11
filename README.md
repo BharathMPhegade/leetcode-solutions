@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0704-binary-search](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0733-flood-fill) |
+| [1004-max-consecutive-ones-iii](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0300-longest-increasing-subsequence](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0704-binary-search](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 <!---LeetCode Topics End-->
