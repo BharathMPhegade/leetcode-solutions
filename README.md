@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0387-first-unique-character-in-a-string](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0387-first-unique-character-in-a-string](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,4 +127,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
