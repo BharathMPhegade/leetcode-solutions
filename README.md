@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0058-length-of-last-word) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0062-unique-paths](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
