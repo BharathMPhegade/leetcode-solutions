@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## String Matching
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0062-unique-paths](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0189-rotate-array](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0189-rotate-array) |
 ## Sorting
 | Problem Name | Difficulty |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
