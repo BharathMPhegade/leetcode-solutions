@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0066-plus-one](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0189-rotate-array](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0063-unique-paths-ii/) | Medium |
+| [0118-pascals-triangle](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
