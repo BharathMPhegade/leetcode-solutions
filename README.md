@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0704-binary-search](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
+| [0069-sqrtx](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0189-rotate-array) |
 ## Sorting
 | Problem Name | Difficulty |
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
