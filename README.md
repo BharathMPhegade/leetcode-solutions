@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0189-rotate-array) |
 ## Sorting
 | Problem Name | Difficulty |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0063-unique-paths-ii/) | Medium |
+| [0070-climbing-stairs](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 ## Combinatorics
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
