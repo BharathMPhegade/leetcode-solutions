@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0455-assign-cookies](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0704-binary-search](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0733-flood-fill](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0733-flood-fill) |
 | [1004-max-consecutive-ones-iii](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Binary Search
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0724-find-pivot-index](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
