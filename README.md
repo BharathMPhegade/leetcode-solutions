@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0733-flood-fill) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0733-flood-fill) |
@@ -198,10 +200,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
