@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0189-rotate-array](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0455-assign-cookies](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## String
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0141-linked-list-cycle](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0202-happy-number](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0202-happy-number](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
