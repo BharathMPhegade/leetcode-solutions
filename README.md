@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0189-rotate-array](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
+| [0344-reverse-string](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 | [0455-assign-cookies](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## String
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/BharathMPhegade/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/BharathMPhegade/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
